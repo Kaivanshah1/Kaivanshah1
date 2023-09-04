@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Open source website in my internship at Internaut Infotech and Contributor at GirlSrcipt Summer of Code 2023**
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **Next JS, Typescript**
 
 - 💬 Ask me about **Frontend technologies**
 
