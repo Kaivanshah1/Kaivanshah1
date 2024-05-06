@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaivan Shah</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Open source website in my internship at Internaut Infotech and Contributor at GirlSrcipt Summer of Code 2023**
